@@ -26,6 +26,8 @@ You can also create your own slot type within the Interaction Model page.
 For example, you could create a slot type called LIST_OF_BIRDS with values "cardinal", "blue jay", "robin", etc.
 Once this list has been created, you could define a new slot called "bird" that is type LIST_OF_BIRDS.
 
+If you'd like detailed instructions to help you through this, you can use [this guide](https://github.com/voicehacks/Labs/tree/master/Lab%202/Detailed%20Instructions)
+
 **Within your Lambda code, copy the format of the ```AttractionIntent``` function definition to create a new handler with the same name as your new Intent.**
 
 **Customize the logic in your handler to retrieve the slot value, and add logic to say a response back to the user.**
