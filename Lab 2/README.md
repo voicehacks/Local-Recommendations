@@ -1,6 +1,7 @@
 
 ### Lab 2: Add a new Intent with Slot
 For more detailed steps, work through these step-by-step [instructions](https://github.com/voicehacks/Labs/tree/master/Lab%202/Detailed%20Instructions).
+
 Review the Intent called AttractionIntent.  It has a slot called "distance" which is defined as type ```AMAZON.NUMBER```
 
 The sample utterance looks like this:
