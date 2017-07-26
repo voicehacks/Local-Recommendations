@@ -1,5 +1,5 @@
 ### Lab 1: Customize this skill for your city or town
-[Click here](Labs/Lab 1/Detailed Walkthrough/README.md) if you want detailed instructions for customizing this skill.
+[Click here](/Detailed Walkthrough/README.md) if you want detailed instructions for customizing this skill.
 
 Think of your hometown, current city, or favorite city.  Jot down a list of your favorite restaurants and attractions.
 
