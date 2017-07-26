@@ -1,6 +1,8 @@
 ## Detailed Steps for Lab 1
 Follow these instructions to complete the work demonstrated in today's first lab. 
 
+#### Steps
+
 1. Change the skill name and invocation name to match your town.  For instance, name it "Boston Guide" and make the invocation "boston guide"
 1. Click on Interaction Model to open the skill builder tool. 
 1. Click save on the top left, then click build model.
