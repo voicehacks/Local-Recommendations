@@ -1,5 +1,5 @@
-# Labs
-Here you will find instructions for each Voicehacks lab. If you aren't sure where to begin, follow [these instructions](quiz-skill) to set up your skill.  
+# Local Recommendations
+Here you will find labs for creating and adding features to your Local Recommendations skill. If you aren't sure where to begin, follow [these instructions](quiz-skill) to set up your skill.  
 
 1. [First Steps](quiz-game)
 1. [Lab 1](https://github.com/voicehacks/Local-Recommendations/tree/master/Lab%201)
