@@ -1,3 +1,21 @@
+If it is before 6 am in current time, recommend staying in bed. 
+If it’s after 10 pm, recommend going to bed
+If it’s around breakfast, lunch or dinner recommend a restaurant accordingly
+If it’s raining or wet outside, stay home and watch a movie on Amazon Prime Video
+Spend some time here working on a robust algorithm 
+
+
+Test ‘go outside’ skill in simulator first
+Go to lambda function
+One of the last handlers, called GoOutIntent
+3:50 look at code
+Save, then test
+Go to developer portal
+Type you outside and press enter
+Should give a recommendation according to your code
+
+
+
 
 Paste this code:
 ```
